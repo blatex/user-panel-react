@@ -1,0 +1,32 @@
+.add-user-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.add-user-header h2 {
+    margin: 0;
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+}
+
+.add-user-header button {
+    border-radius: 5px;
+    box-shadow: none;
+    border-color: transparent;
+    background-color: rgb(0, 71, 71);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 3px 11px;
+}
+
+.add-user-header button:hover {
+    cursor: pointer;
+    background-color: rgb(1, 61, 61);
+}
+
+.add-user-header button:active {
+    background-color: rgb(0, 46, 46);
+}

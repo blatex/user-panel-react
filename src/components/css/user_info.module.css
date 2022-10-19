@@ -1,0 +1,14 @@
+.user-info {
+    display: flex;
+    width: 100%;
+    margin: 2px 0;
+}
+
+.user-info span {
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.user-info p {
+    margin: 0;
+}

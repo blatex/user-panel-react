@@ -1,0 +1,14 @@
+.form-item {
+    padding: 5px 0;
+}
+
+.form-item label {
+    color: white;
+    margin-right: 7px;
+}
+
+.form-item input {
+    border-radius: 20px;
+    border-color: transparent;
+    padding: 2px;
+}
